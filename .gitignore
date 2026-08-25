@@ -1,0 +1,5 @@
+.venv/
+.pio/
+.DS_Store
+.vscode/
+local-tests
